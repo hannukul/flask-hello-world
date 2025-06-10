@@ -1,9 +1,5 @@
-# README
+# This is a simple flask hello world app
 
-This is the [Flask](http://flask.pocoo.org/) [quick start](http://flask.pocoo.org/docs/1.0/quickstart/#a-minimal-application) example for [Render](https://render.com).
+It's now deployed to Render.com at:
+[https://flask-hello-world-5zsz.onrender.com](https://flask-hello-world-5zsz.onrender.com)
 
-The app in this repo is deployed at [https://flask.onrender.com](https://flask.onrender.com).
-
-## Deployment
-
-Follow the guide at https://render.com/docs/deploy-flask.
